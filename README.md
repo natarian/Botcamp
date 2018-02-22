@@ -4,3 +4,9 @@
 **To play the game**: Download Build.zip and extract all files, then run Botcamp.exe and select your preferred screen size, graphics quality, and monitor *(the botcamp_Data folder must be in the same folder as botcamp.exe otherwise it will not run)*. The controls to move your robot are the WASD keys. To exit the game at any time, press Alt+F4.
 
 **My role**: Writing functions for things such as the timer, keeping a point total, deducting points when obstacles were hit, level selection, etc. I also created graphics and implemented designs for each level.
+
+<img align="center" src="https://github.com/natarian/Botcamp/blob/master/Botcamp_LoadingScreen.png" alt="Botcamp Loading Screen Screenshot">
+
+<img align="center" src="https://github.com/natarian/Botcamp/blob/master/Botcamp_ScreenSelection.png" alt="Botcamp Screen Selection Screenshot">
+
+**Have fun!**
